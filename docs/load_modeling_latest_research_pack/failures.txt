@@ -1,0 +1,2 @@
+﻿Dynamic equivalent modelling for active distributed network considering adjustable loads charging characteristics
+Dynamic Equivalence of Active Distribution Network: Multiscale and Multimodal Fusion Deep Learning Method with Automatic Parameter Tuning
