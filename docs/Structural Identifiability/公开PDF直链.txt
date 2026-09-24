@@ -1,0 +1,90 @@
+A01	Are you sure? A Comprehensive and Comprehensible Survey of Uncertainty Quantification in Symbolic Regression
+https://arxiv.org/pdf/2606.06567.pdf
+
+A02	Bayesian Symbolic Regression with Entropic Reinforcement Learning
+https://arxiv.org/pdf/2608.09617.pdf
+
+A03	Bayesian Symbolic Regression via Posterior Sampling
+https://arxiv.org/pdf/2512.10849.pdf
+
+A04	Probabilistic Symbolic Regression for Equation Discovery via Operator-Induced and Regularized Symbolic Forests
+https://arxiv.org/pdf/2509.19710.pdf
+
+A05	VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees
+https://arxiv.org/pdf/2602.23561.pdf
+
+A06	Uncertainty-Aware Symbolic Regression through Bayesian Support Selection
+https://arxiv.org/pdf/2606.04042.pdf
+
+A07	Bayesian Symbolic Regression
+https://arxiv.org/pdf/1910.08892.pdf
+
+A08	A Bayesian machine scientist to aid in the solution of challenging scientific problems
+https://arxiv.org/pdf/2004.12157.pdf
+
+A09	Bayesian symbolic regression: automated equation discovery from a physicist's perspective
+https://arxiv.org/pdf/2507.19540.pdf
+
+A10	Priors for Symbolic Regression
+https://arxiv.org/pdf/2304.06333.pdf
+
+A11	Automated Learning of Interpretable Models with Quantified Uncertainty
+https://arxiv.org/pdf/2205.01626.pdf
+
+A12	Bayesian Model Selection for Reducing Bloat and Overfitting in Genetic Programming for Symbolic Regression
+https://ntrs.nasa.gov/api/citations/20220001900/downloads/smcbingo_gecco22.pdf
+
+A13	Comparing Methods for Estimating Marginal Likelihood in Symbolic Regression
+https://ntrs.nasa.gov/api/citations/20240007699/downloads/gecco_2024_final.pdf
+
+A15	GFN-SR: Symbolic Regression with Generative Flow Networks
+https://arxiv.org/pdf/2312.00396.pdf
+
+B01	EGG-SR: Embedding Symbolic Equivalence into Symbolic Regression via Equality Graph
+https://arxiv.org/pdf/2511.05849.pdf
+
+B02	Improving Genetic Programming for Symbolic Regression with Equality Graphs
+https://arxiv.org/pdf/2501.17848.pdf
+
+C01	Active Learning in Genetic Programming: Guiding Efficient Data Collection for Symbolic Regression
+https://arxiv.org/pdf/2308.00672.pdf
+
+C02	Active Learning Improves Performance on Symbolic Regression Tasks in StackGP
+https://arxiv.org/pdf/2202.04708.pdf
+
+C03	Ensemble-SINDy: Robust sparse model discovery in the low-data, high-noise limit, with active learning and control
+https://arxiv.org/pdf/2111.10992.pdf
+
+C04	Optimal experiment design for practical parameter identifiability and model discrimination
+https://arxiv.org/pdf/2506.11311.pdf
+
+C06	An anticipatory approach to optimal experimental design for model discrimination
+https://modeleau.fsg.ulaval.ca/fileadmin/modeleau/documents/Publications/pvr870.pdf
+
+D01	Equation discovery for nonlinear dynamical systems: A Bayesian viewpoint
+https://eprints.whiterose.ac.uk/id/eprint/169192/6/mssp_20_submitted_final_proof.pdf
+
+D02	On spike-and-slab priors for Bayesian equation discovery of nonlinear dynamical systems via sparse linear regression
+https://arxiv.org/pdf/2012.01937.pdf
+
+D03	Sparsifying Priors for Bayesian Uncertainty Quantification in Model Discovery
+https://arxiv.org/pdf/2107.02107.pdf
+
+D04	Equation Discovery with Bayesian Spike-and-Slab Priors and Efficient Kernels
+https://arxiv.org/pdf/2310.05387.pdf
+
+D05	Rapid Bayesian identification of sparse nonlinear dynamics from scarce and noisy data
+https://arxiv.org/pdf/2402.15357.pdf
+
+D06	Bayesian autoencoders for data-driven discovery of coordinates, governing equations and fundamental constants
+https://arxiv.org/pdf/2211.10575.pdf
+
+E01	Comprehensive Framework for Model Discovery and Discrimination Based on Symbolic Regression and Structural Identifiability
+https://psecommunity.org/wp-content/plugins/wpor/includes/file/2606/LAPSE-2026.0381-1v1.pdf
+
+E02	PyCC.id: A package for hypothesis-driven equation discovery with structural identifiability
+https://arxiv.org/pdf/2606.05191.pdf
+
+E03	Incorporating Model Identifiability into Equation Discovery of ODE Systems
+https://gpbib.cs.ucl.ac.uk/gecco2008/docs/p2135.pdf
+
